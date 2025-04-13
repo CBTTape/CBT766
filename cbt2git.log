@@ -1,0 +1,23 @@
+2025-04-13 22:40:14.269037 - Received CBT.V508.FILE766.PDS from FILE766.XMI 
+2025-04-13 22:40:14.270447 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/$$$#DATE
+2025-04-13 22:40:14.270550 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/$$NOTE1
+2025-04-13 22:40:14.270633 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/$$NOTE2
+2025-04-13 22:40:14.270716 - Found @@README.txt (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/@@README
+2025-04-13 22:40:14.270816 - Found @FILE766.txt (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/@FILE766
+2025-04-13 22:40:14.270895 - Found DISCL.txt (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/DISCL
+2025-04-13 22:40:14.270973 - Found DISCLAIM.txt (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/DISCLAIM
+2025-04-13 22:40:14.271055 - Found JES2PARM.txt (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/JES2PARM
+2025-04-13 22:40:14.271788 - Found LSES500.txt (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/LSES500
+2025-04-13 22:40:14.271885 - Found LSES500J.jcl (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/LSES500J
+2025-04-13 22:40:14.271967 - Found LSES501.txt (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/LSES501
+2025-04-13 22:40:14.272050 - Found LSES502.txt (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/LSES502
+2025-04-13 22:40:14.272327 - Found SSMINSTP.pdf (application/pdf) in CBT.V508.FILE766.PDS, moved to docs/SSMINSTP.pdf
+2025-04-13 22:40:14.272567 - Found SSMINSTW.doc (application/msword) in CBT.V508.FILE766.PDS, moved to docs/SSMINSTW.doc
+2025-04-13 22:40:14.272743 - Found SSMOPSGP.pdf (application/pdf) in CBT.V508.FILE766.PDS, moved to docs/SSMOPSGP.pdf
+2025-04-13 22:40:14.272936 - Found SSMOPSGW.doc (application/msword) in CBT.V508.FILE766.PDS, moved to docs/SSMOPSGW.doc
+2025-04-13 22:40:14.273111 - Found SSMUSERP.pdf (application/pdf) in CBT.V508.FILE766.PDS, moved to docs/SSMUSERP.pdf
+2025-04-13 22:40:14.273299 - Found SSMUSERW.doc (application/msword) in CBT.V508.FILE766.PDS, moved to docs/SSMUSERW.doc
+2025-04-13 22:40:14.273498 - Found STSCX01A.txt (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/STSCX01A
+2025-04-13 22:40:14.273598 - Found STSCX05B.txt (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/STSCX05B
+2025-04-13 22:40:14.273683 - Found STSCX15A.txt (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/STSCX15A
+2025-04-13 22:40:14.273785 - Found STSCX36A.txt (text/plain) in CBT.V508.FILE766.PDS, moved to PDS/STSCX36A
